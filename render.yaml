@@ -3,5 +3,4 @@ services:
     name: TerminusDB
     env: docker
     plan: starter
-      - sync: false
 
