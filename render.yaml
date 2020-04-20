@@ -3,4 +3,6 @@ services:
     name: TerminusDB-Analytics
     env: docker
     plan: starter
+    envVars: 
+    - fromGroup: analytics
 
