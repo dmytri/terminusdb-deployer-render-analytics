@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: TerminusDB
+    name: TerminusDB-Analytics
     env: docker
     plan: starter
 
